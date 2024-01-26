@@ -1,3 +1,0 @@
-# BeBetta Assignment
-
-## Demo

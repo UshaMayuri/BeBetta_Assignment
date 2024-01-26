@@ -11,7 +11,8 @@ import SwiftUI
 struct BeBetta_AssignmentApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            HomeView()
+                .preferredColorScheme(.dark)
         }
     }
 }
